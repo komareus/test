@@ -1,7 +1,7 @@
 media_folder: img/uploads
 backend:
   name: github
-  repo: komareus/komareus.github.io
+  repo: komareus/test
   branch: master
 #  site_domain: komareus.github.io
 collections:
